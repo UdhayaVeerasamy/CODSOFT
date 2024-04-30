@@ -1,1 +1,1 @@
-# CODSOFT 
+Welcome to my repository showcasing the web development projects I've been working during my internship at Codsoft.Within this repository,you will find a collection of projects that highlight my skills in HTML,CSS,Javascript.Each folder is structured in its own folder,allowing easy navigation and exploration
